@@ -2,7 +2,7 @@
 
 **An Offline-First, Cross-Platform Geospatial Calculator for Surveyors and Engineers in Ghana**
 
-[![View Web App](https://img.shields.io/badge/Launch-Web%20App-%237C2929?style=for-the-badge&logo=github)](https://life2allsofts.github.io/ita-computations-web/)
+[![View Web App](https://img.shields.io/badge/Launch-Web%20App-%237C2929?style=for-the-badge&logo=github)](https://life2allsofts.github.io/ita-computations-webapp/)
 
 ## 📌 Overview
 
