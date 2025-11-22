@@ -2,7 +2,7 @@
 
 **An Offline-First, Cross-Platform Geospatial Calculator for Surveyors and Engineers in Ghana**
 
-[![View Web App](https://img.shields.io/badge/Launch-Web%20App-%237C2929?style=for-the-badge&logo=github)](https://itasofts.github.io/ita-computations-webapp/)
+[![View Web App](https://img.shields.io/badge/Launch-Web%20App-%237C2929?style=for-the-badge&logo=github)](https://life2allsofts.github.io/ita-computations-web/)
 
 ## 📌 Overview
 
@@ -41,7 +41,7 @@ The **ITA-Computations** web app is a professional-grade tool designed to automa
 
 | Platform | Link |
 |----------|------|
-| 🌐 Web App | [Launch Now](https://life2allsofts.github.io/ita-computations/) |
+| 🌐 Web App | [Launch Now](https://life2allsofts.github.io/ita-computations/ |
 | 🪟 Windows | [Microsoft Store](https://www.microsoft.com/store/apps/...) *(Coming Soon)* |
 | 📱 Android | [Google Play](https://play.google.com/store/apps/details?id=...) *(Coming Soon)*|
 | 🍎 iOS | [App Store](https://apps.apple.com/app/...) *(Coming Soon)* |
