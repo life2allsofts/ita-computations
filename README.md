@@ -41,7 +41,8 @@ The **ITA-Computations** web app is a professional-grade tool designed to automa
 
 | Platform | Link |
 |----------|------|
-| 🌐 Web App | [Launch Now](https://life2allsofts.github.io/ita-computations/ |
+|[🌐 Web App Now](https://life2allsofts.github.io/ita-computations-webapp/) | 
+[Launch Now](https://life2allsofts.github.io/ita-computations/ |
 | 🪟 Windows | [Microsoft Store](https://www.microsoft.com/store/apps/...) *(Coming Soon)* |
 | 📱 Android | [Google Play](https://play.google.com/store/apps/details?id=...) *(Coming Soon)*|
 | 🍎 iOS | [App Store](https://apps.apple.com/app/...) *(Coming Soon)* |
